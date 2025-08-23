@@ -207,7 +207,7 @@ const CountdownTimer = ({ onReset }: CountdownTimerProps) => {
           </div>
 
           <div className="relative z-10 text-center">
-            <h2 className="text-3xl font-light mb-8 gradient-text">MAKE-A-THON COUNTDOWN</h2>
+            <h2 className="text-3xl font-light mb-8 gradient-text">MAKE-A-THON 2.0 ENDS IN</h2>
             
             <motion.div
               className="flex justify-center items-center space-x-6 mb-8"
